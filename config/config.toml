@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "Document processing model using opencv, ocr & nlp spacy"
+version = "1.0"
+description = "A model which is aimed to extract well defined json object for a given document(single img, single folder of images, nested folders) by leveraging the capabilities of AI tools like opencv, Ocr, NLP spacy."
+authors = ["Ajay Rajaram"]
+readme = "README.md"
+
+[paths]
+east_model_path = "C:/inetpub/wwwroot/DMS_IIS/models/frozen_east_text_detection.pb"
+nlp_model = "C:/inetpub/wwwroot/DMS_IIS/models/Model_123456789_T/model-best"
+input_data = "C:/Projects/final_DOC_AI/test_imgs"
+output_data = "/path/to/output/data"
+log_file = "/path/to/logs/logfile.log"
+
+
+[logging]
+max_size_mb = 15
+
+
+[tool.poetry.dependencies]
+python = "3.9.0"
+Flask="3.0.3"
+Flask_Cors="5.0.0"
+imutils="0.5.4"
+numpy="1.24.4"
+opencv_python="4.10.0.84"
+pytesseract="0.3.13"
+spacy="3.7.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

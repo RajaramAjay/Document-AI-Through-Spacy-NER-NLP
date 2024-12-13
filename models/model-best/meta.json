@@ -1,0 +1,112 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.6,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"319e025",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "ADDRESS",
+      "APPLICANT_NAME",
+      "CITATION_DATE",
+      "CONVICTION REASON",
+      "CONVICTION_DATE",
+      "COURT REPORT ID",
+      "DLN",
+      "DOB",
+      "DOC_DATE",
+      "DOC_NAME",
+      "NY REF ID"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.9816901408,
+    "ents_p":0.9694019471,
+    "ents_r":0.9942938659,
+    "ents_per_type":{
+      "DOC_NAME":{
+        "p":0.8068181818,
+        "r":0.9861111111,
+        "f":0.8875
+      },
+      "DLN":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "DOB":{
+        "p":0.989010989,
+        "r":1.0,
+        "f":0.9944751381
+      },
+      "DOC_DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "APPLICANT_NAME":{
+        "p":0.993006993,
+        "r":0.993006993,
+        "f":0.993006993
+      },
+      "CITATION_DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "COURT REPORT ID":{
+        "p":0.98,
+        "r":0.98,
+        "f":0.98
+      },
+      "CONVICTION_DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "NY REF ID":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "ADDRESS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "CONVICTION REASON":{
+        "p":0.9523809524,
+        "r":0.9756097561,
+        "f":0.9638554217
+      }
+    },
+    "tok2vec_loss":1282.4338375792,
+    "ner_loss":91.6434960233
+  }
+}

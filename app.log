@@ -1,0 +1,1411 @@
+2024-11-18 13:47:30.011551: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 13:47:30.029857: wfastcgi.py 3.0.0 initialized
+2024-11-18 13:48:58.632728: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 13:48:58.652477: Running on_exit tasks
+2024-11-18 13:49:03.298872: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 13:49:03.308831: wfastcgi.py 3.0.0 initialized
+2024-11-18 13:52:00.557636: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 13:52:00.570630: Running on_exit tasks
+2024-11-18 13:52:07.425063: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 13:52:07.443039: wfastcgi.py 3.0.0 initialized
+2024-11-18 13:57:15.000598: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 13:57:15.008072: Running on_exit tasks
+2024-11-18 13:57:31.007725: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 13:57:31.029673: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:09:11.869498: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:09:11.889958: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:11:23.678376: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 14:11:23.692388: Running on_exit tasks
+2024-11-18 14:11:38.951938: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:11:38.973994: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:15:37.751802: wfastcgi.py exiting because src\textdetector.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 14:15:37.774870: Running on_exit tasks
+2024-11-18 14:18:11.244980: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:18:11.265662: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:24:39.607891: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 14:24:39.620706: Running on_exit tasks
+2024-11-18 14:24:45.219389: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:24:45.248609: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:26:17.948012: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 14:26:17.964003: Running on_exit tasks
+2024-11-18 14:26:31.770515: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:26:31.778575: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:32:11.359587: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:32:11.380688: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:37:47.364205: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:37:47.377863: wfastcgi.py 3.0.0 initialized
+2024-11-18 14:48:10.641832: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 14:48:10.664039: Running on_exit tasks
+2024-11-18 14:48:25.776746: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 14:48:25.793425: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:01:22.093166: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:01:22.094816: Running on_exit tasks
+2024-11-18 15:03:17.876447: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:03:17.901141: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:11:27.259676: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:11:27.279482: Running on_exit tasks
+2024-11-18 15:12:13.183617: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:12:13.204857: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:27:58.136689: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:27:58.152380: Running on_exit tasks
+2024-11-18 15:31:17.118194: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:31:17.137626: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:32:42.453387: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:32:42.474870: Running on_exit tasks
+2024-11-18 15:32:59.417298: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:32:59.441561: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:36:16.171083: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:36:16.191819: Running on_exit tasks
+2024-11-18 15:36:35.350211: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:36:35.371365: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:43:49.019406: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:43:49.049677: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:43:50.112119: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:43:50.143282: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:44:14.425197: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:44:14.436554: Running on_exit tasks
+2024-11-18 15:44:53.857792: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:44:53.880528: wfastcgi.py 3.0.0 initialized
+2024-11-18 15:55:10.391049: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 15:55:10.412981: Running on_exit tasks
+2024-11-18 15:56:00.044557: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 15:56:00.071853: wfastcgi.py 3.0.0 initialized
+2024-11-18 16:08:11.413089: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 16:08:11.413089: Running on_exit tasks
+2024-11-18 16:08:22.860848: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 16:08:22.878588: wfastcgi.py 3.0.0 initialized
+2024-11-18 16:20:50.898930: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 16:20:50.901081: Running on_exit tasks
+2024-11-18 16:20:50.914710: wfastcgi.py 3.0.0 closed
+2024-11-18 17:56:15.442751: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 17:56:15.458498: wfastcgi.py 3.0.0 initialized
+2024-11-18 18:08:37.821246: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 18:08:37.856339: Running on_exit tasks
+2024-11-18 18:08:37.868450: wfastcgi.py 3.0.0 closed
+2024-11-18 18:27:40.832150: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 18:27:40.848860: wfastcgi.py 3.0.0 initialized
+2024-11-18 18:35:04.940754: wfastcgi.py exiting because src\logger.py has changed, matching .*((\.py)|(\.config))$
+2024-11-18 18:35:04.968087: Running on_exit tasks
+2024-11-18 18:35:41.597433: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 18:35:41.605257: wfastcgi.py 3.0.0 initialized
+2024-11-18 18:48:03.866880: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 18:48:03.882954: Running on_exit tasks
+2024-11-18 18:48:03.899285: wfastcgi.py 3.0.0 closed
+2024-11-18 18:57:34.902775: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 18:57:34.934241: wfastcgi.py 3.0.0 initialized
+2024-11-18 19:09:55.328040: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 19:09:55.336277: Running on_exit tasks
+2024-11-18 19:09:55.344294: wfastcgi.py 3.0.0 closed
+2024-11-18 19:20:09.934642: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 19:20:09.959321: wfastcgi.py 3.0.0 initialized
+2024-11-18 19:36:39.683573: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 19:36:39.699120: Running on_exit tasks
+2024-11-18 19:36:39.714833: wfastcgi.py 3.0.0 closed
+2024-11-18 20:36:34.326838: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-18 20:36:34.343786: wfastcgi.py 3.0.0 initialized
+2024-11-18 21:05:35.957241: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-18 21:05:35.972857: Running on_exit tasks
+2024-11-18 21:05:35.989111: wfastcgi.py 3.0.0 closed
+2024-11-19 09:25:36.877046: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 09:25:36.900424: wfastcgi.py 3.0.0 initialized
+2024-11-19 09:37:56.347003: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-19 09:37:56.362695: Running on_exit tasks
+2024-11-19 09:37:56.393882: wfastcgi.py 3.0.0 closed
+2024-11-19 09:51:21.190314: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 09:51:21.214831: wfastcgi.py 3.0.0 initialized
+2024-11-19 10:03:42.430791: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-19 10:03:42.440296: Running on_exit tasks
+2024-11-19 10:03:42.453173: wfastcgi.py 3.0.0 closed
+2024-11-19 10:37:27.815319: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 10:37:27.830826: wfastcgi.py 3.0.0 initialized
+2024-11-19 10:46:16.550557: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 10:46:16.613641: wfastcgi.py 3.0.0 initialized
+2024-11-19 10:54:39.278538: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 10:54:39.288454: wfastcgi.py 3.0.0 initialized
+2024-11-19 11:36:17.633172: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-19 11:36:17.648863: Running on_exit tasks
+2024-11-19 11:36:17.648863: wfastcgi.py 3.0.0 closed
+2024-11-19 13:22:38.342413: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 13:22:38.370784: wfastcgi.py 3.0.0 initialized
+2024-11-19 13:28:53.365099: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 13:28:53.391450: Running on_exit tasks
+2024-11-19 14:05:28.551863: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 14:05:28.575085: wfastcgi.py 3.0.0 initialized
+2024-11-19 15:14:52.269031: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 15:14:52.287078: wfastcgi.py 3.0.0 initialized
+2024-11-19 15:48:02.437066: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-19 15:48:02.453757: Running on_exit tasks
+2024-11-19 15:48:02.453757: wfastcgi.py 3.0.0 closed
+2024-11-19 15:49:52.322661: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 15:49:52.338668: wfastcgi.py 3.0.0 initialized
+2024-11-19 16:29:27.849043: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 16:29:27.958940: wfastcgi.py 3.0.0 initialized
+2024-11-19 16:29:30.247942: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 16:29:30.310385: wfastcgi.py 3.0.0 initialized
+2024-11-19 16:30:08.976827: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 16:30:09.086391: wfastcgi.py 3.0.0 initialized
+2024-11-19 20:46:23.954293: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 20:46:23.970262: wfastcgi.py 3.0.0 initialized
+2024-11-19 20:47:47.534141: wfastcgi.py exiting because src\text_recognition.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 20:47:47.554805: Running on_exit tasks
+2024-11-19 20:47:58.469725: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 20:47:58.486356: wfastcgi.py 3.0.0 initialized
+2024-11-19 20:49:00.397033: wfastcgi.py exiting because src\text_recognition.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 20:49:00.417359: Running on_exit tasks
+2024-11-19 20:49:07.652015: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 20:49:07.676158: wfastcgi.py 3.0.0 initialized
+2024-11-19 21:14:05.594576: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\Projects\DMS_IIS\c_venv3.10\lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2024-11-19 21:14:05.615819: Running on_exit tasks
+2024-11-19 21:14:05.633714: wfastcgi.py 3.0.0 closed
+2024-11-19 22:51:22.613957: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 22:51:22.638524: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:05:17.435851: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:05:17.458623: Running on_exit tasks
+2024-11-19 23:06:35.927272: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:06:35.954774: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:17:31.863447: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:17:31.890501: Running on_exit tasks
+2024-11-19 23:17:55.399276: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:17:55.409378: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:25:21.092215: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:25:21.113661: Running on_exit tasks
+2024-11-19 23:25:30.230697: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:25:30.251492: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:27:44.941659: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:27:44.975066: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:29:13.104242: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:29:13.134169: Running on_exit tasks
+2024-11-19 23:29:25.273322: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:29:25.297061: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:38:17.157685: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:38:17.180768: Running on_exit tasks
+2024-11-19 23:38:40.476578: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:38:40.499650: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:47:29.898788: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-19 23:47:29.916077: Running on_exit tasks
+2024-11-19 23:50:39.497468: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:50:39.523653: wfastcgi.py 3.0.0 initialized
+2024-11-19 23:54:04.218485: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-19 23:54:04.238751: wfastcgi.py 3.0.0 initialized
+2024-11-20 00:04:24.962610: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-20 00:04:24.978233: wfastcgi.py 3.0.0 initialized
+2024-11-20 08:19:13.450526: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-20 08:19:13.452596: wfastcgi.py 3.0.0 initialized
+2024-11-20 08:56:49.749489: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-20 08:56:49.770153: wfastcgi.py 3.0.0 initialized
+2024-11-20 09:09:42.327037: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-20 09:09:42.347800: Running on_exit tasks
+2024-11-20 09:10:26.944431: wfastcgi.py will restart when files in C:\Projects\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-20 09:10:26.963237: wfastcgi.py 3.0.0 initialized
+2024-11-20 09:23:43.717561: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-11-20 09:23:43.743578: Running on_exit tasks
+2024-11-26 09:14:42.430702: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 09:14:42.432693: wfastcgi.py 3.0.0 initialized
+2024-11-26 09:25:30.767618: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 09:25:30.768614: wfastcgi.py 3.0.0 initialized
+2024-11-26 09:28:34.814477: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 09:28:34.815473: wfastcgi.py 3.0.0 initialized
+2024-11-26 09:30:26.728862: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 09:30:26.757734: wfastcgi.py 3.0.0 initialized
+2024-11-26 09:54:56.060516: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-26 09:54:56.060516: Running on_exit tasks
+2024-11-26 09:54:56.060516: wfastcgi.py 3.0.0 closed
+2024-11-26 10:31:02.248268: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 10:31:02.248268: wfastcgi.py 3.0.0 initialized
+2024-11-26 10:55:54.541115: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-26 10:55:54.541115: Running on_exit tasks
+2024-11-26 10:55:54.541115: wfastcgi.py 3.0.0 closed
+2024-11-26 11:08:32.434284: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 11:08:32.435236: wfastcgi.py 3.0.0 initialized
+2024-11-26 12:50:40.742568: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 12:50:40.742568: wfastcgi.py 3.0.0 initialized
+2024-11-26 13:08:26.335790: wfastcgi.py exiting because src\textdetector.py has changed, matching .*((\.py)|(\.config))$
+2024-11-26 13:08:26.336786: Running on_exit tasks
+2024-11-26 13:14:51.693887: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 13:14:51.693887: wfastcgi.py 3.0.0 initialized
+2024-11-26 13:16:08.051586: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 13:16:08.051586: wfastcgi.py 3.0.0 initialized
+2024-11-26 13:18:35.624465: wfastcgi.py exiting because src\textdetector.py has changed, matching .*((\.py)|(\.config))$
+2024-11-26 13:18:35.624465: wfastcgi.py exiting because src\textdetector.py has changed, matching .*((\.py)|(\.config))$
+2024-11-26 13:18:35.625502: Running on_exit tasks
+2024-11-26 13:18:35.625502: Running on_exit tasks
+2024-11-26 13:18:50.655595: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 13:18:50.656543: wfastcgi.py 3.0.0 initialized
+2024-11-26 13:19:28.720456: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 13:19:28.721452: wfastcgi.py 3.0.0 initialized
+2024-11-26 13:43:48.943144: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-26 13:43:48.944102: Running on_exit tasks
+2024-11-26 13:43:48.945109: wfastcgi.py 3.0.0 closed
+2024-11-26 13:44:08.548384: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-26 13:44:08.548384: Running on_exit tasks
+2024-11-26 13:44:08.549377: wfastcgi.py 3.0.0 closed
+2024-11-26 15:55:22.880687: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 15:55:22.881682: wfastcgi.py 3.0.0 initialized
+2024-11-26 21:49:09.611796: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 21:49:09.612748: wfastcgi.py 3.0.0 initialized
+2024-11-26 21:56:42.878902: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-26 21:56:42.879891: Running on_exit tasks
+2024-11-26 21:56:42.879891: wfastcgi.py 3.0.0 closed
+2024-11-26 21:56:43.774914: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 21:56:43.774914: wfastcgi.py 3.0.0 initialized
+2024-11-26 21:56:44.600283: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 21:56:44.600283: wfastcgi.py 3.0.0 initialized
+2024-11-26 21:56:44.641104: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 21:56:44.641104: wfastcgi.py 3.0.0 initialized
+2024-11-26 21:56:45.078181: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-26 21:56:45.079177: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:46:48.735969: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:46:48.736962: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:54:08.647028: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-28 00:54:08.647028: Running on_exit tasks
+2024-11-28 00:54:08.648024: wfastcgi.py 3.0.0 closed
+2024-11-28 00:54:09.641655: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:54:09.642651: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:54:09.875626: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:54:09.875626: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:54:10.102628: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:54:10.103624: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:54:10.321715: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:54:10.321715: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 00:54:10.321715: wfastcgi.py 3.0.0 initialized
+2024-11-28 00:54:10.322660: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:40:10.249421: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:40:10.250421: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:16.905422: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-11-28 20:54:16.906418: Running on_exit tasks
+2024-11-28 20:54:16.906418: wfastcgi.py 3.0.0 closed
+2024-11-28 20:54:19.055960: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.056957: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.093794: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.093794: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.208290: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.208290: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.209286: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.209286: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.224220: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.225215: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.250106: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.251101: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.280970: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.280970: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.280970: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.281965: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:19.748910: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:19.749906: wfastcgi.py 3.0.0 initialized
+2024-11-28 20:54:20.191796: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-11-28 20:54:20.192793: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:25:24.280033: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:25:24.280033: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:31:00.714027: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-01 09:31:00.714027: Running on_exit tasks
+2024-12-01 09:31:00.714027: wfastcgi.py 3.0.0 closed
+2024-12-01 09:31:01.199533: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:31:01.199533: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:31:01.277649: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:31:01.277649: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:31:01.340135: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:31:01.340135: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:31:02.152478: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:31:02.152478: wfastcgi.py 3.0.0 initialized
+2024-12-01 09:31:03.277267: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 09:31:03.277267: wfastcgi.py 3.0.0 initialized
+2024-12-01 10:43:53.971116: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 10:43:53.972111: wfastcgi.py 3.0.0 initialized
+2024-12-01 10:51:37.567300: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-01 10:51:37.568337: Running on_exit tasks
+2024-12-01 10:51:37.568337: wfastcgi.py 3.0.0 closed
+2024-12-01 10:51:38.977984: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-01 10:51:38.977984: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:42:46.417030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:42:46.417030: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:48:11.981274: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-02 06:48:11.981274: Running on_exit tasks
+2024-12-02 06:48:11.981274: wfastcgi.py 3.0.0 closed
+2024-12-02 06:48:12.637393: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:48:12.637393: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:48:12.637393: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:48:12.637393: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:48:12.777996: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:48:12.777996: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:48:12.777996: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:48:12.777996: wfastcgi.py 3.0.0 initialized
+2024-12-02 06:48:13.496623: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 06:48:13.512234: wfastcgi.py 3.0.0 initialized
+2024-12-02 12:54:44.464574: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 12:54:44.464574: wfastcgi.py 3.0.0 initialized
+2024-12-02 13:19:42.993627: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-02 13:19:42.993627: Running on_exit tasks
+2024-12-02 13:19:42.994623: wfastcgi.py 3.0.0 closed
+2024-12-02 14:03:08.474132: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 14:03:08.475128: wfastcgi.py 3.0.0 initialized
+2024-12-02 14:52:27.258823: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 232, in <module>
+    connection_string = config['service']['connection_string']  # Add this in your config file
+                        ~~~~~~^^^^^^^^^^^
+KeyError: 'service'
+
+
+StdOut: Checking file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log, Size: 1.27 MB
+Continuing with existing log file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log
+
+
+StdErr: 
+2024-12-02 14:52:27.259819: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 232, in <module>
+    connection_string = config['service']['connection_string']  # Add this in your config file
+                        ~~~~~~^^^^^^^^^^^
+KeyError: 'service'
+2024-12-02 14:52:27.259819: Running on_exit tasks
+2024-12-02 14:52:27.260815: wfastcgi.py 3.0.0 closed
+2024-12-02 14:53:30.851942: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-02 14:53:30.852931: wfastcgi.py 3.0.0 initialized
+2024-12-02 15:18:28.851982: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-02 15:18:28.852978: Running on_exit tasks
+2024-12-02 15:18:28.852978: wfastcgi.py 3.0.0 closed
+2024-12-04 09:14:34.216417: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "main.app" could not be imported: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 226, in <module>
+    from src.json_cleaning import clean_json  # Import your JSON cleaning module
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'clean_json' from 'src.json_cleaning' (C:\inetpub\wwwroot\DMS_IIS\src\json_cleaning.py)
+
+
+
+StdOut: Checking file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log, Size: 1.29 MB
+Continuing with existing log file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log
+
+
+StdErr: 
+2024-12-04 09:14:34.217412: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 616, in get_wsgi_handler
+    raise ValueError('"%s" could not be imported%s' % (handler_name, last_tb))
+ValueError: "main.app" could not be imported: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 226, in <module>
+    from src.json_cleaning import clean_json  # Import your JSON cleaning module
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'clean_json' from 'src.json_cleaning' (C:\inetpub\wwwroot\DMS_IIS\src\json_cleaning.py)
+
+2024-12-04 09:14:34.218406: Running on_exit tasks
+2024-12-04 09:14:34.218406: wfastcgi.py 3.0.0 closed
+2024-12-04 09:15:02.893664: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:15:02.894874: wfastcgi.py 3.0.0 initialized
+2024-12-04 09:24:50.367951: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:24:50.367951: wfastcgi.py 3.0.0 initialized
+2024-12-04 09:34:40.315992: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 09:34:40.315992: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 09:34:40.316981: Running on_exit tasks
+2024-12-04 09:34:40.316981: Running on_exit tasks
+2024-12-04 09:35:25.833163: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:35:25.834112: wfastcgi.py 3.0.0 initialized
+2024-12-04 09:45:52.823998: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 09:45:52.825048: Running on_exit tasks
+2024-12-04 09:46:11.652279: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:46:11.653274: wfastcgi.py 3.0.0 initialized
+2024-12-04 09:49:51.319790: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 09:49:51.320779: Running on_exit tasks
+2024-12-04 09:50:01.569988: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:50:01.570984: wfastcgi.py 3.0.0 initialized
+2024-12-04 09:53:58.789010: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 09:53:58.789010: Running on_exit tasks
+2024-12-04 09:54:39.380527: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 09:54:39.381569: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:03:17.354151: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:03:17.354151: Running on_exit tasks
+2024-12-04 10:04:55.127964: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 382, in <module>
+    from src.image_processor import ImageProcessorFactory  # Import your ImageProcessorFactory
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+
+
+StdOut: 
+
+StdErr: 
+2024-12-04 10:04:55.129955: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 382, in <module>
+    from src.image_processor import ImageProcessorFactory  # Import your ImageProcessorFactory
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+2024-12-04 10:04:55.130950: Running on_exit tasks
+2024-12-04 10:04:55.130950: wfastcgi.py 3.0.0 closed
+2024-12-04 10:13:26.101032: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 378, in <module>
+    from src.image_processor import ImageProcessorFactory
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+
+
+StdOut: 
+
+StdErr: 
+2024-12-04 10:13:26.103064: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 378, in <module>
+    from src.image_processor import ImageProcessorFactory
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+2024-12-04 10:13:26.103064: Running on_exit tasks
+2024-12-04 10:13:26.104061: wfastcgi.py 3.0.0 closed
+2024-12-04 10:14:12.069828: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 225, in <module>
+    from src.image_processor import *  # Import your ImageProcessorFactory
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+
+
+StdOut: 
+
+StdErr: 
+2024-12-04 10:14:12.071819: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 511, in loads
+    ret = decoder.load_line(line, currentlevel, multikey,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 778, in load_line
+    value, vtype = self.load_value(pair[1], strictly_valid)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 910, in load_value
+    raise ValueError("This float doesn't have a leading "
+ValueError: This float doesn't have a leading digit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 225, in <module>
+    from src.image_processor import *  # Import your ImageProcessorFactory
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\src\image_processor.py", line 3, in <module>
+    from src.logger import setup_logger
+  File "C:\inetpub\wwwroot\DMS_IIS\src\logger.py", line 8, in <module>
+    config = toml.load(config_path)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 134, in load
+    return loads(ffile.read(), _dict, decoder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\toml\decoder.py", line 514, in loads
+    raise TomlDecodeError(str(err), original, pos)
+toml.decoder.TomlDecodeError: This float doesn't have a leading digit (line 22 column 1 char 852)
+2024-12-04 10:14:12.071819: Running on_exit tasks
+2024-12-04 10:14:12.071819: wfastcgi.py 3.0.0 closed
+2024-12-04 10:15:41.804809: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 10:15:41.805804: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:24:17.162601: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:24:17.162601: Running on_exit tasks
+2024-12-04 10:24:41.174030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 10:24:41.174030: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:30:23.705755: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:30:23.705755: Running on_exit tasks
+2024-12-04 10:34:14.535603: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 10:34:14.536597: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:39:19.641277: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:39:19.641277: Running on_exit tasks
+2024-12-04 10:39:29.969268: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 10:39:29.969268: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:40:22.987407: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:40:22.987407: Running on_exit tasks
+2024-12-04 10:40:34.361974: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 10:40:34.362969: wfastcgi.py 3.0.0 initialized
+2024-12-04 10:57:58.619349: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 10:57:58.619349: Running on_exit tasks
+2024-12-04 10:58:55.369883: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 135, in <module>
+    connection_string = config['SERVERCONFIG_SETTING']['connectionString']
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'connectionString'
+
+
+StdOut: Checking file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log, Size: 1.44 MB
+Continuing with existing log file: C:\inetpub\wwwroot\DMS_IIS\logs\Log_2024-11-18_18-27-42.log
+
+
+StdErr: 
+2024-12-04 10:58:55.370879: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\main.py", line 135, in <module>
+    connection_string = config['SERVERCONFIG_SETTING']['connectionString']
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'connectionString'
+2024-12-04 10:58:55.370879: Running on_exit tasks
+2024-12-04 10:58:55.371871: wfastcgi.py 3.0.0 closed
+2024-12-04 11:04:55.907506: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:04:55.908456: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:05:58.591610: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:05:58.591610: Running on_exit tasks
+2024-12-04 11:06:05.843643: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:06:05.844716: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:07:58.590816: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:07:58.590816: Running on_exit tasks
+2024-12-04 11:08:05.161484: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:08:05.162479: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:18:52.682771: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:18:52.683767: Running on_exit tasks
+2024-12-04 11:29:20.398933: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:29:20.398933: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:30:09.856225: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:30:09.856225: Running on_exit tasks
+2024-12-04 11:30:16.249533: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:30:16.249533: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:36:43.815914: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:36:43.815914: Running on_exit tasks
+2024-12-04 11:37:03.788051: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:37:03.789047: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:43:11.573249: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:43:11.574280: Running on_exit tasks
+2024-12-04 11:55:36.123839: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 11:55:36.124833: wfastcgi.py 3.0.0 initialized
+2024-12-04 11:59:56.153238: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-04 11:59:56.154234: Running on_exit tasks
+2024-12-04 12:00:48.530854: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 12:00:48.530854: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:27:54.699282: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:27:54.699282: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:30.930287: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-04 17:34:30.930287: Running on_exit tasks
+2024-12-04 17:34:30.930287: wfastcgi.py 3.0.0 closed
+2024-12-04 17:34:31.758252: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:31.758252: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:31.851987: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:31.851987: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:31.945716: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:31.945716: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:32.726818: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:32.726818: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:33.164226: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:33.164226: wfastcgi.py 3.0.0 initialized
+2024-12-04 17:34:33.554776: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-04 17:34:33.554776: wfastcgi.py 3.0.0 initialized
+2024-12-05 20:39:59.076427: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-05 20:39:59.076427: wfastcgi.py 3.0.0 initialized
+2024-12-05 20:44:48.034544: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-05 20:44:48.034544: Running on_exit tasks
+2024-12-05 20:44:48.034544: wfastcgi.py 3.0.0 closed
+2024-12-05 20:44:48.581305: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-05 20:44:48.581305: wfastcgi.py 3.0.0 initialized
+2024-12-05 20:44:49.893556: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-05 20:44:49.893556: wfastcgi.py 3.0.0 initialized
+2024-12-05 20:44:50.065394: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-05 20:44:50.065394: wfastcgi.py 3.0.0 initialized
+2024-12-09 08:46:06.020852: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-09 08:46:06.020852: wfastcgi.py 3.0.0 initialized
+2024-12-09 08:46:24.673504: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-09 08:46:24.673504: wfastcgi.py 3.0.0 initialized
+2024-12-09 09:11:03.978055: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-09 09:11:03.978055: Running on_exit tasks
+2024-12-09 09:11:03.978055: wfastcgi.py 3.0.0 closed
+2024-12-09 09:11:22.849447: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-09 09:11:22.849447: Running on_exit tasks
+2024-12-09 09:11:22.849447: wfastcgi.py 3.0.0 closed
+2024-12-09 10:16:44.177608: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-09 10:16:44.177608: wfastcgi.py 3.0.0 initialized
+2024-12-09 10:58:22.482397: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-09 10:58:22.482397: Running on_exit tasks
+2024-12-09 10:58:22.482397: wfastcgi.py 3.0.0 closed
+2024-12-09 12:56:12.298118: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-09 12:56:12.298118: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:09:04.986749: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:09:04.986749: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:23:09.581653: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:23:09.581653: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:23:09.581653: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:23:09.581653: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:22.442620: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:24:22.442620: Running on_exit tasks
+2024-12-10 08:24:22.442620: wfastcgi.py 3.0.0 closed
+2024-12-10 08:24:40.954687: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:40.954687: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:42.407524: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:42.407524: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:47.156609: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:47.156609: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:47.422181: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:47.422181: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:47.594022: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:47.594022: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:47.906462: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:47.906462: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:50.687176: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:50.687176: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:52.483705: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:52.483705: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:53.452269: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:53.452269: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:54.202125: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:54.202125: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:54.311479: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:54.311479: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:54.764517: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:54.764517: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:54.764517: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:54.780138: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:55.233176: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:55.233176: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:55.264420: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:55.264420: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:55.951788: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:55.951788: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:56.639155: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:56.639155: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:56.904729: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:56.904729: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.092195: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.092195: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.107817: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.107817: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.154681: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.154681: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.404633: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.404633: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.451499: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.451499: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.560853: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.560853: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:57.576475: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:57.576475: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.138869: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.138869: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.185736: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.201359: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.216983: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.216983: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.295091: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.295091: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.326335: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.326335: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.326335: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.326335: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.326335: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.326335: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.341956: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.341956: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.373200: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.373200: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.373200: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.373200: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.388823: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.388823: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.420067: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.420067: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.420067: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.420067: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.420067: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.420067: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.435688: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.435688: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.435688: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.435688: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.435688: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.435688: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.451309: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.451309: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.482555: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.482555: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.498176: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.498176: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.513798: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.513798: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.529418: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.529418: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.529418: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.529418: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.545041: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.545041: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.545041: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.545041: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.560665: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.560665: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.560665: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.560665: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.560665: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.560665: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.560665: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.560665: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.638772: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.638772: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.654435: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.654435: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.670053: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.670053: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.685640: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.685640: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.685640: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.701301: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.701301: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.701301: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.701301: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.701301: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.716886: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.716886: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.779410: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.779410: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 08:24:58.779410: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:24:58.779410: wfastcgi.py 3.0.0 initialized
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.346489: Running on_exit tasks
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.346489: wfastcgi.py 3.0.0 closed
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.346489: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.362053: Running on_exit tasks
+2024-12-10 08:46:34.362053: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.362053: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.362053: wfastcgi.py 3.0.0 closed
+2024-12-10 08:46:34.362053: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 08:46:34.362053: Running on_exit tasks
+2024-12-10 08:46:34.362053: Running on_exit tasks
+2024-12-10 10:46:28.411204: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 10:46:28.411204: wfastcgi.py 3.0.0 initialized
+2024-12-10 10:46:48.126177: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 10:46:48.126177: wfastcgi.py 3.0.0 initialized
+2024-12-10 10:51:03.119809: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 10:51:03.120797: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 10:51:03.121788: Running on_exit tasks
+2024-12-10 10:51:03.121788: Running on_exit tasks
+2024-12-10 10:51:37.954140: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 10:51:37.954140: wfastcgi.py 3.0.0 initialized
+2024-12-10 10:54:02.111509: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 10:54:02.111509: Running on_exit tasks
+2024-12-10 10:54:19.439892: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 10:54:19.455518: wfastcgi.py 3.0.0 initialized
+2024-12-10 10:57:49.500333: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 10:57:49.500333: Running on_exit tasks
+2024-12-10 10:59:18.906845: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 10:59:18.906845: wfastcgi.py 3.0.0 initialized
+2024-12-10 11:00:27.708115: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 11:00:27.708115: Running on_exit tasks
+2024-12-10 11:00:33.756927: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 11:00:33.756927: wfastcgi.py 3.0.0 initialized
+2024-12-10 11:20:10.053735: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 11:20:10.054766: Running on_exit tasks
+2024-12-10 11:20:25.179269: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 11:20:25.180277: wfastcgi.py 3.0.0 initialized
+2024-12-10 11:30:27.704127: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 11:30:27.705150: Running on_exit tasks
+2024-12-10 11:40:06.853743: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 11:40:06.853743: wfastcgi.py 3.0.0 initialized
+2024-12-10 11:49:47.641211: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 11:49:47.642206: Running on_exit tasks
+2024-12-10 11:49:50.490320: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 11:49:50.491316: wfastcgi.py 3.0.0 initialized
+2024-12-10 11:52:44.779046: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2024-12-10 11:52:44.779046: Running on_exit tasks
+2024-12-10 11:53:54.728677: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 11:53:54.729675: wfastcgi.py 3.0.0 initialized
+2024-12-10 12:18:52.678641: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 12:18:52.679637: Running on_exit tasks
+2024-12-10 12:18:52.679637: wfastcgi.py 3.0.0 closed
+2024-12-10 13:31:01.420701: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 13:31:01.420701: wfastcgi.py 3.0.0 initialized
+2024-12-10 13:40:10.139598: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 13:40:10.139598: wfastcgi.py 3.0.0 initialized
+2024-12-10 13:43:17.397247: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 13:43:17.568435: wfastcgi.py 3.0.0 initialized
+2024-12-10 13:43:19.026710: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 13:43:19.438267: wfastcgi.py 3.0.0 initialized
+2024-12-10 14:07:40.455863: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 14:07:40.455863: Running on_exit tasks
+2024-12-10 14:07:40.455863: wfastcgi.py 3.0.0 closed
+2024-12-10 14:07:59.224648: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 14:07:59.224648: Running on_exit tasks
+2024-12-10 14:07:59.225645: wfastcgi.py 3.0.0 closed
+2024-12-10 14:13:28.058419: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 14:13:28.058419: Running on_exit tasks
+2024-12-10 14:13:28.058419: wfastcgi.py 3.0.0 closed
+2024-12-10 14:48:02.786599: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-10 14:48:02.786599: wfastcgi.py 3.0.0 initialized
+2024-12-10 15:13:01.079366: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-10 15:13:01.079366: Running on_exit tasks
+2024-12-10 15:13:01.079366: wfastcgi.py 3.0.0 closed
+2024-12-11 01:01:22.981486: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:01:22.997062: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:18.520605: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-11 01:08:18.520605: Running on_exit tasks
+2024-12-11 01:08:18.520605: wfastcgi.py 3.0.0 closed
+2024-12-11 01:08:18.801801: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:18.801801: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:18.911155: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:18.911155: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:18.989264: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:18.989264: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:19.426682: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:19.426682: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:19.973487: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:19.973487: wfastcgi.py 3.0.0 initialized
+2024-12-11 01:08:20.301564: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-11 01:08:20.317137: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:39:50.489206: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:39:50.489206: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:13.711680: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-12 00:45:13.711680: Running on_exit tasks
+2024-12-12 00:45:13.711680: wfastcgi.py 3.0.0 closed
+2024-12-12 00:45:14.711446: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:14.711446: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:14.758350: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:14.758350: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:14.758350: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:14.758350: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:14.758350: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:14.758350: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:15.555064: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:15.555064: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:15.758155: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:15.758155: wfastcgi.py 3.0.0 initialized
+2024-12-12 00:45:16.226775: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 00:45:16.226775: wfastcgi.py 3.0.0 initialized
+2024-12-12 14:33:04.088626: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 14:33:04.089171: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:37:42.086146: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:37:42.086146: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:43:56.282434: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\inetpub\wwwroot\DMS_IIS\penv\Lib\site-packages\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+           ^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2024-12-12 20:43:56.282434: Running on_exit tasks
+2024-12-12 20:43:56.282434: wfastcgi.py 3.0.0 closed
+2024-12-12 20:43:56.876013: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:43:56.876013: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:43:57.297806: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:43:57.297806: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:43:58.157014: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:43:58.157014: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:43:58.172638: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:43:58.172638: wfastcgi.py 3.0.0 initialized
+2024-12-12 20:43:59.141201: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 20:43:59.141201: wfastcgi.py 3.0.0 initialized
+2024-12-12 21:27:31.257890: wfastcgi.py will restart when files in C:\inetpub\wwwroot\DMS_IIS\ are changed: .*((\.py)|(\.config))$
+2024-12-12 21:27:31.257890: wfastcgi.py 3.0.0 initialized
